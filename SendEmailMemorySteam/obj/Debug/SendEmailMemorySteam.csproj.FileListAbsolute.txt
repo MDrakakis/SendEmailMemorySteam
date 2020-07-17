@@ -1,0 +1,14 @@
+C:\Users\mdrakakis\Desktop\PersonalApp\SendEmailMemorySteam\SendEmailMemorySteam\bin\Debug\SendEmailMemorySteam.exe.config
+C:\Users\mdrakakis\Desktop\PersonalApp\SendEmailMemorySteam\SendEmailMemorySteam\bin\Debug\SendEmailMemorySteam.exe
+C:\Users\mdrakakis\Desktop\PersonalApp\SendEmailMemorySteam\SendEmailMemorySteam\bin\Debug\SendEmailMemorySteam.pdb
+C:\Users\mdrakakis\Desktop\PersonalApp\SendEmailMemorySteam\SendEmailMemorySteam\obj\Debug\SendEmailMemorySteam.csprojAssemblyReference.cache
+C:\Users\mdrakakis\Desktop\PersonalApp\SendEmailMemorySteam\SendEmailMemorySteam\obj\Debug\SendEmailMemorySteam.csproj.CoreCompileInputs.cache
+C:\Users\mdrakakis\Desktop\PersonalApp\SendEmailMemorySteam\SendEmailMemorySteam\obj\Debug\SendEmailMemorySteam.exe
+C:\Users\mdrakakis\Desktop\PersonalApp\SendEmailMemorySteam\SendEmailMemorySteam\obj\Debug\SendEmailMemorySteam.pdb
+C:\Users\mdrakakis\Desktop\PersonalApps\SendEmailMemorySteam\SendEmailMemorySteam\bin\Debug\SendEmailMemorySteam.exe.config
+C:\Users\mdrakakis\Desktop\PersonalApps\SendEmailMemorySteam\SendEmailMemorySteam\bin\Debug\SendEmailMemorySteam.exe
+C:\Users\mdrakakis\Desktop\PersonalApps\SendEmailMemorySteam\SendEmailMemorySteam\bin\Debug\SendEmailMemorySteam.pdb
+C:\Users\mdrakakis\Desktop\PersonalApps\SendEmailMemorySteam\SendEmailMemorySteam\obj\Debug\SendEmailMemorySteam.csprojAssemblyReference.cache
+C:\Users\mdrakakis\Desktop\PersonalApps\SendEmailMemorySteam\SendEmailMemorySteam\obj\Debug\SendEmailMemorySteam.csproj.CoreCompileInputs.cache
+C:\Users\mdrakakis\Desktop\PersonalApps\SendEmailMemorySteam\SendEmailMemorySteam\obj\Debug\SendEmailMemorySteam.exe
+C:\Users\mdrakakis\Desktop\PersonalApps\SendEmailMemorySteam\SendEmailMemorySteam\obj\Debug\SendEmailMemorySteam.pdb
